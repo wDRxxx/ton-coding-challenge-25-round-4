@@ -44,8 +44,6 @@ getgems的测试网地址：https://testnet.getgems.io/
 
 ### 你的答案：
 
-（写下你的钱包地址的 4 个不同格式的值）
-
 1. NFT 转账交易的浏览器交易URL =  ?
 2. NFT 挂在 getgems 售卖的URL =  ?
 
