@@ -10,6 +10,8 @@ https://t.me/TON_HongKong
 
 ---
 
+课件地址：https://ton-org.notion.site/IV-Jetton-NFT-1e35274bd2cf80648f32d9157647451d
+
 领奖信息收集：
 1. 你的 Telegram 用户名 = ？
 2. 你的主网 TON 钱包地址 = ？
